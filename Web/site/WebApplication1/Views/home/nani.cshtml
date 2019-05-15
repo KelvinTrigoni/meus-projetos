@@ -1,0 +1,101 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <meta name="viewport" content="width=device-width" />
+    <title> SITE 4° BIMESTRE </title>
+    <link href="~/CSS/nani.css" rel="stylesheet" />
+</head>
+<body>
+    <div>
+    
+        <div class="alinhar">
+
+            <button style="font-size:24px" onclick="topFunction()" id="subir" title="Go to top">  <i class="fa fa-angle-up"></i> </button>
+
+            <div class="blocobarra">
+                <div class="home"></div>
+
+                <div class="blocohome">
+
+                    <div class="limo">LIM<span style="color:#fb606c; margin-left:0px;">O</span> </div>
+
+                    <ul style="list-style-type:none">
+                        <div class="menu">
+
+                            <li><a class="home" href="~/home/batata"> HOME </a></li>
+
+                            <li><a href="#home" class="about"> ABOUT US </a></li>
+
+                            <li><a class="about" href="~/home/batman"> BLOG </a></li>
+
+                            <li><a class="about" href="~/home/xampson"> GALLERY </a></li>
+                             
+                            <li><a class="about1" href="#home"> CONTACTS </a></li>
+                        </div>
+
+                    </ul>
+                </div>
+            </div> 
+
+            <div class="fundo"> </div>
+
+            <div class="texto1">Feedback </div>
+            <div class="barradnv1"> </div> 
+            <div class="barradnv2"> </div>
+
+            <input type="text" id="fname" class="final1_5" placeholder="Enter your name *" </input>
+            <input type="text" id="fname" class="final1_6" placeholder="Enter your email *" </input>
+            <input type="text" id="fname" class="final1_6" placeholder="Enter your phone" </input>
+            <input type="text" id="fname" class="final1_7" placeholder="Message *" </input>
+
+            <div class="submit"> SUBMIT </div>
+
+            <div class="carro4"> </div>
+            <div class="textoc4"> Contacts</div>
+            <div class="textokd2"> 28 Jackson Blvd, Ste 1020 Chicago IL </div>
+            <div class="fone">+1 800 559 6580 </div>
+
+            <div class="bb">
+                <div class="barradnv9999"> </div>
+                <div class="barradnv99999"> </div>
+            </div>
+
+            <div class="more4">MORE INFO </div>
+
+            <div class="final1"> Limo © 2017  •</div>
+            <div class="final2"> Privacy Policy</div>
+
+            <div class="mapa"> </div>
+
+            
+            <script>
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+    if (document.body.scrollTop > 200 || document.documentElement.scrollTop > 200) {
+        document.getElementById("subir").style.display = "block";
+    } else {
+        document.getElementById("subir").style.display = "none";
+    }
+}
+
+function topFunction() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+
+}
+            </script>
+
+
+
+
+        </div>
+</body>
+</html>

@@ -1,0 +1,22 @@
+c:\users\kelvin.silva.a3\documents\visual studio 2015\Projects\LPll3bi\LPll3bi\bin\Debug\LPll3bi.exe.config
+D:\3° ano\mauricio\LPll3bi\LPll3bi\bin\Debug\LPll3bi.exe.config
+D:\3° ano\mauricio\LPll3bi\LPll3bi\obj\Debug\LPll3bi.csprojResolveAssemblyReference.cache
+D:\3° ano\mauricio\LPll3bi\LPll3bi\obj\Debug\LPll3bi.Form1.resources
+D:\3° ano\mauricio\LPll3bi\LPll3bi\obj\Debug\LPll3bi.Properties.Resources.resources
+D:\3° ano\mauricio\LPll3bi\LPll3bi\obj\Debug\LPll3bi.csproj.GenerateResource.Cache
+D:\3° ano\mauricio\LPll3bi\LPll3bi\bin\Debug\LPll3bi.exe
+D:\3° ano\mauricio\LPll3bi\LPll3bi\bin\Debug\LPll3bi.pdb
+D:\3° ano\mauricio\LPll3bi\LPll3bi\obj\Debug\LPll3bi.exe
+D:\3° ano\mauricio\LPll3bi\LPll3bi\obj\Debug\LPll3bi.pdb
+E:\3° ano\mauricio\LPll3bi\LPll3bi\bin\Debug\LPll3bi.exe.config
+E:\3° ano\mauricio\LPll3bi\LPll3bi\obj\Debug\LPll3bi.exe
+E:\3° ano\mauricio\LPll3bi\LPll3bi\obj\Debug\LPll3bi.pdb
+E:\3° ano\mauricio\LPll3bi\LPll3bi\bin\Debug\LPll3bi.exe
+E:\3° ano\mauricio\LPll3bi\LPll3bi\bin\Debug\LPll3bi.pdb
+E:\3° ano\mauricio\LPll3bi\LPll3bi\obj\Debug\LPll3bi.csprojResolveAssemblyReference.cache
+E:\3° ano\mauricio\LPll3bi\LPll3bi\obj\Debug\LPll3bi.Form1.resources
+E:\3° ano\mauricio\LPll3bi\LPll3bi\obj\Debug\LPll3bi.Properties.Resources.resources
+E:\3° ano\mauricio\LPll3bi\LPll3bi\obj\Debug\LPll3bi.csproj.GenerateResource.Cache
+E:\tudo\3° ano\mauricio\LPll3bi\LPll3bi\bin\Debug\LPll3bi.exe.config
+E:\tudo\3° ano\mauricio\LPll3bi\LPll3bi\obj\Debug\LPll3bi.exe
+E:\tudo\3° ano\mauricio\LPll3bi\LPll3bi\obj\Debug\LPll3bi.pdb
